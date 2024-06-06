@@ -15,9 +15,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
     1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
     2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
     3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
+1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvo
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
@@ -38,11 +36,31 @@ Apresente os resultados do seu projeto
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
 
+# E-book sobre IAs Gnerativas do Futuro ;)
+
+## 📒 Descrição
+O projeto consiste em um e-book, em que os textos e uma das imagens foi criado com inteligência artificial. O tema também faz jus á ao mesmo assunto. 
+
+## 🤖 Tecnologias Utilizadas
+Para a realização do projeto foram utilizadas as seguintes ferramentas de IA:
+
+- GEMINI para a produção do texto;
+- COPILOT para a produção da última imagem do e-book.
+
+## 🧐 Processo de Criação
+- CRIAÇÃO DO TEXTO: Para a criação do texto dei o comando para que fosse criado um texto falando sobre IAs Generativas utilizando SEO afim de rankear melhor o texto no google.
+
+- CRIAÇÃO DE IMAGEM: foi solicitado por meio de um comando a criação de uma imagem sobre o tema do texto.
+
+## 🚀 Resultados
+O resultado foi a criação do Ebook de acordo com o9 tema proposto.
+
+## 💭 Reflexão (Opcional)
+Por meio das IAs será possível acelerar e otimizar a criação de qualquer conteúdo na internet.
+
 ### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- [E-BOOK][E-book.IAs.Generativas.pdf](https://github.com/user-attachments/files/15603995/E-book.IAs.Generativas.pdf)
 
 ## Links Interessantes
 
